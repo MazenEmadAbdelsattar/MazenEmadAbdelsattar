@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on development technology all over the world!
 - 📫 How to reach me WhatsApp +02 01146511702 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am hungry :D
+- ⚡ Fun fact: I am hungry now :D
 
 <!---
 MazenEmadAbdelsattar/MazenEmadAbdelsattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
