@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MazenEmadAbdelsattar
+- 👋 Hi, I’m @Eng - MazenEmad
 - 👀 I’m interested in technology, programming and fitness
 - 🌱 I’m currently studying Computer Science and Artificial Intelligence at Helwan University in Cairo, Egypt.
 - 💞️ I’m looking to collaborate on development technology all over the world!
